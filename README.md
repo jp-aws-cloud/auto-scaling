@@ -29,4 +29,8 @@ To get started using Amazon EC2 Auto Scaling, you can use the default VPC for yo
 - Step 6: Clean up
 
 # Set up a scaled and load-balanced application
+
+Registering your Auto Scaling group with an Elastic Load Balancing load balancer helps you set up a load-balanced application. Elastic Load Balancing works with Amazon EC2 Auto Scaling to distribute incoming traffic across your healthy Amazon EC2 instances. 
+
+## Lab: Perform
 ![Set up a scaled and load-balanced application](images/image1.png)
